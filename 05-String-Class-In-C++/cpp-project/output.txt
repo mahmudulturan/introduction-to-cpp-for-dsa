@@ -1,2 +1,7 @@
-Hellaw World
-Hellaw World
+size - 5
+max_size - 1073741823
+capacity - 15
+clear - 0
+empty true - 1
+empty false - 1
+after resize - 0
