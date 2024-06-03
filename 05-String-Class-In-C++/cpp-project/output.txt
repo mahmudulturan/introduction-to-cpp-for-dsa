@@ -1,7 +1,2 @@
-h
-e
-l
-l
-o
-h
-o
+5
+hello this is zooo 5
