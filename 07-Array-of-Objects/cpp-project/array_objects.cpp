@@ -11,7 +11,12 @@ public:
 
 int main()
 {
+    // static array of objects
     Student arrOfStudents[5];
+    
+    // dynamic array of objects
+    // Student *arrOfStudents = new Student[5];
+
     for (int i = 0; i < 5; i++)
     {
         getline(cin, arrOfStudents[i].name);
