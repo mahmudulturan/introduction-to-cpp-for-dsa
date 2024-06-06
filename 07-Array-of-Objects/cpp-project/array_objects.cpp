@@ -14,7 +14,9 @@ int main()
     Student arrOfStudents[5];
     for (int i = 0; i < 5; i++)
     {
-        cin >> arrOfStudents[i].name >> arrOfStudents[i].age >> arrOfStudents[i].roll;
+        getline(cin, arrOfStudents[i].name);
+        cin >> arrOfStudents[i].age >> arrOfStudents[i].roll;
+        cin.ignore();
     }
 
     for (int i = 0; i < 5; i++)

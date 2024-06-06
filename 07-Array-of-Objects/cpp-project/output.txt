@@ -1,5 +1,5 @@
-Tamim 15
-Sakib 19
-Rakib 17
-Hridoy 18
-Nahid 16
+Tamim Hasan 15 6
+Sakib Hasan 19 5
+Rakib Hasan 17 9
+Hridoy Hasan 18 3
+Nahid Hasan 16 2
