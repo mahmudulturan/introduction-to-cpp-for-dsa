@@ -1,5 +1,2 @@
-Tamim Hasan 15 6
-Sakib Hasan 19 5
-Rakib Hasan 17 9
-Hridoy Hasan 18 3
-Nahid Hasan 16 2
+Min - Nahid 16 2
+Max - Rakib 17 9

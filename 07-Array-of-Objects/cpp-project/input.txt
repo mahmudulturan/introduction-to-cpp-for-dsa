@@ -1,10 +1,6 @@
-Tamim Hasan
-15 6
-Sakib Hasan
-19 5
-Rakib Hasan
-17 9
-Hridoy Hasan
-18 3
-Nahid Hasan
-16 2
+5
+Tamim 15 6
+Sakib 19 5
+Rakib 17 9
+Hridoy 18 3
+Nahid 16 2
