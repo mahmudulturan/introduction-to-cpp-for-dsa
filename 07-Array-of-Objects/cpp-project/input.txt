@@ -1,6 +1,1 @@
-5
-Tamim 15 6
-Sakib 19 5
-Rakib 17 9
-Hridoy 18 3
-Nahid 16 2
+adcmed
